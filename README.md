@@ -54,21 +54,11 @@
 ### 🤝🏻 &nbsp;Conéctate conmigo
 
 <p align="center">
-  <a href="https://marcoortiz.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/-Portafolio-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/marco-ortiz-arcos-9710b6315/" target="_blank">
-    <img src="https://img.shields.io/badge/-Marco_Antobio_Ortiz_Arcos-0077B5?style=flat&logo=Linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:marco_ortiz_2404@hotmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-marco_ortiz_2404@hotmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/marco_ortiz_2404/" target="_blank">
-    <img src="https://img.shields.io/badge/-@marco__ortiz__2404_-E4405F?style=flat&logo=Instagram&logoColor=white"/>
-  </a>
-  <a href="https://www.facebook.com/profile.php?id=100016849690725" target="_blank">
-    <img src="https://img.shields.io/badge/-Marco_Ortiz-1877F2?style=flat&logo=Facebook&logoColor=white"/>
-  </a>
+  <a href="https://marcoortiz.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/-Portafolio-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/marco-ortiz-arcos-9710b6315/" target="_blank"><img src="https://img.shields.io/badge/-Marco_Antobio_Ortiz_Arcos-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+  <a href="mailto:marco_ortiz_2404@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/-marco_ortiz_2404@hotmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+  <a href="https://www.instagram.com/marco_ortiz_2404/" target="_blank"><img src="https://img.shields.io/badge/-@marco__ortiz__2404_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+  <a href="https://www.facebook.com/profile.php?id=100016849690725" target="_blank"><img src="https://img.shields.io/badge/-Marco_Ortiz-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
 
 
